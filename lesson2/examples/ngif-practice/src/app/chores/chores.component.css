@@ -16,3 +16,7 @@ img {
     display: block;
     margin: auto;
 }
+
+ng-template p {
+    color: red
+}
